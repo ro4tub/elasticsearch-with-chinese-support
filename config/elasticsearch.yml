@@ -383,6 +383,10 @@
 # it unless you need it is recommended (it is disabled by default).
 #
 #http.jsonp.enable: true
+path:
+  data: /data/data
+  logs: /data/log
+  work: /data/work
 
 index:
     analysis:
